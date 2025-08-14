@@ -1,5 +1,3 @@
-k
-
 #include <layout_shift.dtsi>
 #include <layout_shift_kp_override.dtsi>
 #include <behaviors.dtsi>
